@@ -25,11 +25,11 @@
  <li>Tool friendly.</li>
 </ol>
   <br>
-  <h2> Extension</h2>
+  <h2> Extension:-</h2>
 <p>The extension for Kotlin is (.kt)</p>
 <br>
-  <h2>Flow chart for kotlin</h2>
-  <img scr="">
+  <h2>Flow chart for kotlin:-</h2>
+  <img src="flow chart.png">
   <br>
  <h3>Project:-</h3><br>
  <ul>
