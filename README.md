@@ -33,7 +33,8 @@
   <br>
  <h3>Project:-</h3><br>
  <ul>
- <li>[project 1](https://github.com/ishanwalia7579/Kotlin-project/blob/main/Project%201.kt)</li>
+ <li>[Day 1](https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%201.kt)</li>
+  <li>[Day 2]()</li>
  </ul>
 <br>
 <br>
