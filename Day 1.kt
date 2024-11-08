@@ -1,3 +1,5 @@
+// basic hello world print in kotlin
+
 fun main()
 {
   println("Hello Ishan walia")
