@@ -1,3 +1,4 @@
+//how to user find in kotlin
 fun main(){
     println("Hii kotlin")
     println("hello world")
