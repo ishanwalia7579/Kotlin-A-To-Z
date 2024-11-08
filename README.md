@@ -12,6 +12,7 @@
   <p><ul type="1">
    <li>Andriod Apps</li>
    <li>Server Side Apps</li>
+   <img scr="">
   </ul>
  </p>
 <br>
@@ -26,16 +27,49 @@
 </ol>
   <br>
   <h2> Extension:-</h2>
-<p>The extension for Kotlin is (.kt)</p>
+<p>The Extension for Kotlin is (.kt)</p>
+  
 <br>
+  <h3>Who to difference println and print ?</h3>
+  <p>
+   <code>
+    <pre>
+     // using for println
+    fun main()
+     {
+     println("hello kotlin")
+     println("All the best ")
+     } 
+ Output:-
+ hello kotlin<br>
+ All the best
+    </pre>
+   </code>
+<br>
+   <code>
+    <pre>
+     // using for print
+    fun main()
+     {
+     println("Hello kotlin")
+     printin("All The Best")
+     }
+ Output:-
+ Hello kotlin All The Best
+    </pre>
+   </code>
+  </p>
+  <br>
   <h2>Flow chart for kotlin:-</h2>
   <img src="flow chart.png">
   <br>
  <h3>Project:-</h3><br>
  <ul>
- <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%201.kt">Day 1</li>
-  <li><a href="">Day 2</li>
-  <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%203.kt">Day 3</li>
+  
+ <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%201.kt">Day 1</a>  // This for Hello world print in kotlin.</li>
+  <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%202.kt">Day 2</a> // This used for UserId,name,address using for kotlin etc... </li>
+  <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%203.kt">Day 3</a> // How to work variables in kotlin. </li>
+  
  </ul>
 <br>
 <br>
