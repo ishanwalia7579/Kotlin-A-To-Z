@@ -33,9 +33,9 @@
   <br>
  <h3>Project:-</h3><br>
  <ul>
- <li>[Day 1](https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%201.kt)</li>
-  <li>[Day 2]()</li>
-  <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%203.kt">Day</li>
+ <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%201.kt">Day 1</li>
+  <li><a href="">Day 2</li>
+  <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%203.kt">Day 3</li>
  </ul>
 <br>
 <br>
