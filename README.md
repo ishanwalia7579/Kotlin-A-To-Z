@@ -35,6 +35,7 @@
  <ul>
  <li>[Day 1](https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%201.kt)</li>
   <li>[Day 2]()</li>
+  <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%203.kt">Day</li>
  </ul>
 <br>
 <br>
