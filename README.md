@@ -60,8 +60,8 @@
    </code>
   </p>
   <br>
-<h2>How to work data type in kotlin</h2>
-<ul>
+<h2>How to work data type in kotlin ?</h2>
+<ul type="square">
  <li>Integer</li>
  <li>Byte</li>
  <li>Short</li>
@@ -80,10 +80,10 @@
  <ul>
   
  <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%201.kt">Day 1</a>  // This for Hello world print in kotlin.</li>
-  <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%202.kt">Day 2</a> // This used for UserId,name,address using for kotlin etc... </li>
+  <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%202.kt">Day 2</a> // This used for UserId,name,address using for kotlin etc. </li>
   <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%203.kt">Day 3</a> // How to work variables in kotlin. </li>
-  <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%204.kt">Day 4</a> // How to work Data types in kotlin </li>
-  <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%205.kt">Day 5</a> // How to used array </li>
+  <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%204.kt">Day 4</a> // How to work Data types in kotlin. </li>
+  <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%205.kt">Day 5</a> // How to used array. </li>
  </ul>
 <br>
 <br>
