@@ -60,6 +60,19 @@
    </code>
   </p>
   <br>
+<h2>How to work data type in kotlin</h2>
+<ul>
+ <li>Integer</li>
+ <li>Byte</li>
+ <li>Short</li>
+ <li>Long</li>
+ <li>Float</li>
+ <li>Double</li>
+ <li>Character</li>
+ <li>Boolean</li>
+ <li>Arrays</li>
+</ul>
+  <br>
   <h2>Flow chart for kotlin:-</h2>
   <img src="flow chart.png">
   <br>
@@ -70,7 +83,7 @@
   <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%202.kt">Day 2</a> // This used for UserId,name,address using for kotlin etc... </li>
   <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%203.kt">Day 3</a> // How to work variables in kotlin. </li>
   <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%204.kt">Day 4</a> // How to work Data types in kotlin </li>
-  <li><a href="">Day 5</a> // How to used array </li>
+  <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%205.kt">Day 5</a> // How to used array </li>
  </ul>
 <br>
 <br>
