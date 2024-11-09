@@ -72,6 +72,7 @@
  <li>Boolean</li>
  <li>Arrays</li>
 </ul>
+<p align="center"><img src="data types.png"></p>
   <br>
   <h2>Flow chart for kotlin:-</h2>
   <img src="flow chart.png">
