@@ -85,6 +85,7 @@
   <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%203.kt">Day 3</a> // How to work variables in kotlin. </li>
   <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%204.kt">Day 4</a> // How to work Data types in kotlin. </li>
   <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%205.kt">Day 5</a> // How to used array. </li>
+  <li>< a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%206.kt">Day 6</a> // User Defined Data Type</li>
  </ul>
 <br>
 <br>
