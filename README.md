@@ -73,6 +73,23 @@
  <li>Arrays</li>
 </ul>
 <p align="center"><img src="data types.png"></p>
+<br>
+<h3> What is control statements ?</h3>
+<h5>1.Conditional Statements:</h5>
+<ul>
+ <li>if</li>
+ <li>if-else</li>
+ <li>if-else if-else</li>
+ <li>when</li>
+</ul>
+<h5>2.Loop Statements:</h5>
+<li>for</li>
+<li>while</li>
+<li>do-while</li>
+<h5>3.Jump Statements</h5>
+<li>break</li>
+<li>continue</li>
+<li>return</li>
   <br>
   <h2>Flow chart for kotlin:-</h2>
   <img src="flow chart.png">
@@ -86,6 +103,7 @@
   <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%204.kt">Day 4</a> // How to work Data types in kotlin. </li>
   <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%205.kt">Day 5</a> // How to used array. </li>
   <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%206.kt">Day 6</a> // User Defined Data Type</li>
+  <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%207.kt">Day 7</a> // Control statement</li>
  </ul>
 <br>
 <br>
