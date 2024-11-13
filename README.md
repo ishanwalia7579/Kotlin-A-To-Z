@@ -104,6 +104,7 @@
   <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%205.kt">Day 5</a> // How to used array. </li>
   <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%206.kt">Day 6</a> // User Defined Data Type</li>
   <li><a href="https://github.com/ishanwalia7579/Kotlin-project/blob/main/Day%207.kt">Day 7</a> // Control statement</li>
+  <li><a href="">Day 8</a> // How to use while loop and for loop in kotlin </li>
  </ul>
 <br>
 <br>
