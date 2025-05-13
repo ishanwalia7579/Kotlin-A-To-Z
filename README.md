@@ -16,7 +16,7 @@
 
 | No. | Lesson                           | Badge                                    | Link for Lesson                       
 |-----|----------------------------------|------------------------------------------|-------------------------------------------|
-| 1   | Kotlin Basic      | <img src="lesson1.jpg" height="150px"> |<a href="https://developers.google.com/profile/badges/playlists/android/android-development-with-kotlin-1">Lesson 1</a> |
+| 1   | Kotlin Basic      | <img src="lesson1.jpg"> |<a href="https://developers.google.com/profile/badges/playlists/android/android-development-with-kotlin-1">Lesson 1</a> |
 | 2   |  Functions       | <img src="lesson2.jpg">  |<a href="https://developers.google.com/profile/badges/playlists/android/android-development-with-kotlin-2">Lesson 2</a> |            
 | 3   |  Classes and Objects |  <img src="lesson3.jpg">  | <a href="https://developers.google.com/profile/badges/playlists/android/android-development-with-kotlin-3">Lesson 3</a>|                
 | 4   |  Build Your First Android App |<img src="lesson4.png"> | <a href="https://developers.google.com/profile/badges/playlists/android/android-development-with-kotlin-4">Lesson 4</a>|
