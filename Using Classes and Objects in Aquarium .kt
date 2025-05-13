@@ -22,7 +22,7 @@ fun main() {
 }
 output = Width: 20 cm  Length: 100 cm Height: 40 cm 
 
-In buildAquarium(), add code to set the height to 60 and print the changed dimension properties.
+//In buildAquarium(), add code to set the height to 60 and print the changed dimension properties.
 class Aquarium {
     var width: Int = 20
     var height: Int = 40
