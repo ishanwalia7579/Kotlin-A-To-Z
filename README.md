@@ -8,7 +8,20 @@
  I am upload to day by day new project  upload to github  <br><br>
   <h2>Introduction Kotlin:-</h2>
 <p>Kotlin is developed by <em>Jetbrains</em> offically relased in 2016,kotlin is a statically-typed,general-purpose programming language .it is widely used to develop andriod application,it runs on JVM (Java Virtual Machine) so it can be run any where java can runs</p><br>
-
+<h3>Lesson</h3>
+  <li>Kotlin Basic </li>
+  <li> Functions </li>
+  <li>Classes and Objects</li>
+  <li>Build Your First Android App</li>
+  <li>Layouts</li>
+  <li>App Navigation </li>
+  <li> Activity and Fragment Lifecycles</li>
+  <li> App Architecture (UI Layer)</li>
+  <li>App Architecture (Persistence)</li>
+  <li>Advanced RecyclerView Use Cases</li>
+ <li>Connect to the internet</li>
+  <li> Repository pattern and WorkManager</li>
+  <li>App UI design</li>
  <h2 align="Center"><img src="andriod.jpg" align="right" height="100px" width="100px"></h2>
  
 <br>
